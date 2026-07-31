@@ -1,0 +1,19 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated indexes and local vector databases
+*.pkl
+vector_db/
+app/vector_db/
+
+# Local tooling
+.vscode/
