@@ -331,9 +331,9 @@ Combining both improves retrieval quality.
 
 **Your Name**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Shaury09
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: www.linkedin.com/in/shaury-chauhan-4a407033b
 
 ---
 
