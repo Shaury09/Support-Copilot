@@ -311,15 +311,8 @@ Combining both improves retrieval quality.
 
 ## Chat Interface
 
-(Add screenshot here)
+<img width="1919" height="951" alt="Screenshot 2026-07-31 220825" src="https://github.com/user-attachments/assets/57527312-232e-46d8-bb59-4d7e54857c58" />
 
----
-
-## Swagger API
-
-(Add screenshot here)
-
----
 
 # 🔮 Future Improvements
 
